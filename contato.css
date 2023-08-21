@@ -1,0 +1,286 @@
+.vector-icon19 {
+  position: absolute;
+  height: 56.67%;
+  width: 19.64%;
+  top: 64.89%;
+  right: 79.61%;
+  bottom: -21.56%;
+  left: 0.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon20 {
+  position: absolute;
+  top: 2975.64px;
+  left: 2098.67px;
+  width: 796.96px;
+  height: 399.07px;
+}
+.imagem-icon,
+.vector-icon21 {
+  position: absolute;
+  top: 2134.83px;
+  left: 1215.19px;
+  width: 236.81px;
+  height: 79.17px;
+}
+.imagem-icon {
+  top: 0;
+  left: 543px;
+  width: 854px;
+  height: 854px;
+  overflow: hidden;
+}
+.formulrio-de-contato-child {
+  position: absolute;
+  top: 0;
+  left: 65px;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(0);
+  width: 508px;
+  height: 768px;
+}
+.contate-nos {
+  position: absolute;
+  top: 50px;
+  left: 115px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.mande-suas-dvidas {
+  position: absolute;
+  top: 94px;
+  left: 115px;
+  color: var(--color-lavenderblush);
+}
+.email1,
+.mensagem,
+.nome {
+  position: absolute;
+  top: 189px;
+  left: 115px;
+}
+.email1,
+.mensagem {
+  top: 257px;
+}
+.mensagem {
+  top: 393px;
+  display: inline-block;
+  width: 91px;
+  height: 29px;
+}
+.boto-child,
+.linha-icon,
+.telefone-55 {
+  position: absolute;
+  top: 325px;
+  left: 116px;
+}
+.boto-child,
+.linha-icon {
+  top: 230px;
+  width: 347px;
+  height: 320px;
+}
+.boto-child {
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: var(--color-darkorange);
+  width: 181px;
+  height: 70px;
+}
+.boto,
+.enviar1 {
+  position: absolute;
+  top: 24px;
+  left: 60px;
+}
+.boto {
+  top: 589px;
+  left: 199px;
+  width: 181px;
+  height: 70px;
+  color: #f9f7f7;
+}
+.body2,
+.formulrio-de-contato {
+  position: absolute;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+}
+.formulrio-de-contato {
+  top: 256px;
+  left: 0;
+  width: 1365px;
+  height: 1108px;
+}
+.body2 {
+  top: calc(50% - 1107px);
+  left: calc(50% - 731.5px);
+  width: 1463px;
+  height: 2214px;
+}
+.expandindo-mentes-conectando2 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 458px);
+  color: var(--color-orange-200);
+  display: inline-block;
+  width: 672px;
+}
+.contact-us3 {
+  position: relative;
+}
+.button5 {
+  position: absolute;
+  top: calc(50% + 24px);
+  left: calc(50% - 230px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-orange-200);
+  width: 203px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-7xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+}
+.social-icon12,
+.social-icon13 {
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.social-icon13 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-container {
+  position: absolute;
+  top: calc(50% + 138px);
+  left: calc(50% - 356px);
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.all-rights-reserved2 {
+  position: absolute;
+  top: -21.02%;
+  left: 0;
+  font-weight: 500;
+}
+.copyright2 {
+  position: absolute;
+  top: calc(50% + 200px);
+  left: calc(50% + 162px);
+  width: 296px;
+  height: 11px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.logo2-1-icon4 {
+  position: absolute;
+  top: calc(50% - 187px);
+  left: calc(50% - 229px);
+  width: 214px;
+  height: 147px;
+  object-fit: cover;
+}
+.footer2 {
+  position: absolute;
+  top: calc(50% + 596px);
+  left: calc(50% - 333.5px);
+  width: 916px;
+  height: 555px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-lavenderblush);
+  font-family: var(--font-roboto);
+}
+.logo2-1-icon5 {
+  position: absolute;
+  top: 5px;
+  left: 81px;
+  width: 136px;
+  height: 77px;
+  object-fit: cover;
+}
+.pagina-inicial2 {
+  cursor: pointer;
+}
+.cursos-online6,
+.pagina-inicial2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.cursos-online-frame,
+.nav-links2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cursos-online-frame {
+  justify-content: center;
+  cursor: pointer;
+}
+.nav-links2 {
+  position: absolute;
+  top: 34px;
+  left: 302px;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.icon2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.search-box2 {
+  position: absolute;
+  top: 20px;
+  left: 1054px;
+  background-color: var(--color-darkslategray);
+  width: 275px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-37xl) var(--padding-xs)
+    var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.navs2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1452px;
+  height: 84px;
+  overflow: hidden;
+  font-family: var(--font-inter);
+}
+.contato {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 2214px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}
